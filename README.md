@@ -6,6 +6,13 @@
  2. go to your directory and install npm module with this command :
     cd 'your_directory_name'
     npm install
+
  3. install clsx module with this command :
     npm install clsx
- 4. 
+ 
+ 4. clone this code, copy public and src folder and replace in your instalized directory.
+ 
+ 
+ 5. Run that with this command
+    npm run dev
+     
